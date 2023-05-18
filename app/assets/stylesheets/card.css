@@ -1,7 +1,5 @@
 .card {
   background-color: rgba(0,0,0,0.0);
-  /* height: 400px;
-  width: 317px; */
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
@@ -17,11 +15,7 @@
 .past-work-cards {
   width: 90%;
   background-color: rgba(0,0,0,0.0);
-  /* height: 400px;
-  width: 317px; */
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  /* display: flex; */
   align-items: center;
   text-align: center;
   justify-content: space-around;
@@ -42,4 +36,149 @@
   color: black;
   padding: 20px;
   transition: 0.35s;
+}
+
+.renewable-energy-card {
+  background-color: rgba(0,0,0,0.0);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: left;
+  justify-content: space-around;
+  font-size: 22px;
+  color: black;
+  padding: 100px;
+  transition: 0.35s;
+  width: 40%;
+  margin-right: 40%;
+}
+
+.renewable-energy-card:hover{
+  transition: 0.35s;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background-color: rgba(0,0,0,1);
+  color: white;
+}
+
+.go-motor-finance-card {
+  background-color: rgba(0,0,0,0.0);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: left;
+  justify-content: space-around;
+  font-size: 22px;
+  color: black;
+  padding: 100px;
+  transition: 0.35s;
+  width: 40%;
+  margin-left: 40%;
+}
+.go-motor-finance-card:hover {
+  transition: 0.35s;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background-color: rgba(0,0,0,1);
+  color: white;
+}
+
+.royal-hospital-card {
+  background-color: rgba(0,0,0,0.0);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: left;
+  justify-content: space-around;
+  font-size: 22px;
+  color: black;
+  padding: 100px;
+  transition: 0.35s;
+  width: 40%;
+  margin-right: 40%;
+}
+
+.royal-hospital-card:hover {
+  transition: 0.35s;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background-color: rgba(0,0,0,1);
+  color: white;
+}
+
+.housing-card {
+  background-color: rgba(0,0,0,0.0);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: left;
+  justify-content: space-around;
+  font-size: 22px;
+  color: black;
+  padding: 100px;
+  transition: 0.35s;
+  width: 40%;
+  margin-left: 40%;
+  position: relative;
+}
+.housing-card:hover {
+  transition: 0.35s;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background-color: rgba(0,0,0,1);
+  color: white;
+}
+
+.housing-card > * {
+  position: absolute;
+}
+
+.left {
+  left: 0px;
+}
+
+.right {
+  right: 0px;
+}
+
+.top {
+  top: 0px;
+}
+
+.bottom {
+  bottom: 0px;
+}
+
+#top-left-building-image {
+  border-radius: 50%;
+}
+#top-right-building-image{
+  border-radius: 50%;
+}
+#bottom-left-building-image{
+  border-radius: 50%;
+}
+#bottom-right-building-image{
+  border-radius: 50%;
+}
+#top-middle-building-image{
+  border-radius: 50%;
+}
+
+.air-ambulance-card {
+  background-color: rgba(0,0,0,0.0);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-around;
+  font-size: 22px;
+  color: black;
+  padding: 100px;
+  margin: 100px;
+  transition: 0.35s;
+  width: 40%;
+  margin-right: 40%;
+}
+
+.air-ambulance-card:hover {
+  transition: 0.35s;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background-color: rgba(0,0,0,1);
+  color: white;
 }
