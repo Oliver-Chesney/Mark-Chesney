@@ -38,11 +38,10 @@
   transition: 0.35s;
 }
 
-.renewable-energy-card {
+.renewable-energy-card-text {
   background-color: rgba(0,0,0,0.0);
   border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  display: flex;
   align-items: left;
   justify-content: space-around;
   font-size: 22px;
@@ -53,7 +52,7 @@
   margin-right: 40%;
 }
 
-.renewable-energy-card:hover{
+.renewable-energy-card-text:hover{
   transition: 0.35s;
   box-shadow: 0 0 10px rgba(0,0,0,1);
   background-color: rgba(0,0,0,1);
