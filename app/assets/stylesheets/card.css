@@ -128,15 +128,6 @@
 }
 
 .air-ambulance-card {
-  background-color: rgba(0,0,0,0.0);
-  border-radius: 10%;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  display: flex;
-  justify-content: space-around;
-  font-size: 22px;
-  color: black;
-  padding: 100px;
-  margin: 100px;
   transition: 0.35s;
   width: 40%;
   margin-right: 40%;
