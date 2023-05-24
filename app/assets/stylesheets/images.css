@@ -1,6 +1,5 @@
 #renewable-energy-photo-1 {
-  width: 40%;
+  width: 100%;
   height: 300px;
-  border-bottom: 10%;
-  justify-content: left;
+  border-radius: 15px;
 }
