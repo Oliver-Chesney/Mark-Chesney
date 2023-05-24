@@ -40,7 +40,7 @@
 
 .renewable-energy-card {
   background-color: rgba(0,0,0,0.0);
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
   align-items: left;
@@ -62,7 +62,7 @@
 
 .go-motor-finance-card {
   background-color: rgba(0,0,0,0.0);
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
   align-items: left;
@@ -83,7 +83,7 @@
 
 .royal-hospital-card {
   background-color: rgba(0,0,0,0.0);
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
   align-items: left;
@@ -105,7 +105,7 @@
 
 .housing-card {
   background-color: rgba(0,0,0,0.0);
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
   align-items: left;
@@ -163,7 +163,7 @@
 
 .air-ambulance-card {
   background-color: rgba(0,0,0,0.0);
-  border-radius: 50%;
+  border-radius: 10%;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   display: flex;
   justify-content: space-around;
