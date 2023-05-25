@@ -24,10 +24,62 @@
         </div>
       </div>
       <div class="past-work-cards">
+
+      <%# <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-50" src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427433/IMG_3322_z4cxzn.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-50" src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427449/IMG_3077_tbn0iz.jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-50" src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427444/IMG_3081_f87djl.jpg" alt="Third slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-50" src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427440/IMG_3321_p50yvd.jpg" alt="Fourth slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-50" src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Fifth slide">
+          </div>
+        </div>
+      </div>
+ %>
+
+
+
+
+      <div id="housingCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="3000">
+            <%= image_tag("https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427433/IMG_3322_z4cxzn.jpg") %>
+          </div>
+          <div class="carousel-item" data-bs-interval="3000">
+            <%= image_tag("https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427449/IMG_3077_tbn0iz.jpg") %>
+          </div>
+          <div class="carousel-item" data-bs-interval="3000">
+            <%= image_tag("https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427444/IMG_3081_f87djl.jpg") %>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <div class="renewable-energy-card">
           <img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" id="renewable-energy-photo-1">
           <a href="https://en.wikipedia.org/wiki/Renewable_energy" target="_blank">
-            <div class="renewable-energy-card-text">
+            <div class="renewable-energy-text">
               Renewable energy For some years now I have worked in a hybrid of both the construction and finance
               industry. Recently like everyone I have taken an interest in the environment around us and the
               problem of global warming, looking at ways in which my industry experiences can be directed
@@ -41,7 +93,7 @@
         <div class="go-motor-finance-card">
           <img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" id="go-motor-finance-photo-1">
           <a href="https://en.wikipedia.org/wiki/Renewable_energy" target="_blank">
-            <div class="go-motor-finance-card-text">
+            <div class="go-motor-finance-text">
               Go Motor Finance.I am one of the founding partners of Go Motor Finance, a company set up to help
               financially disadvantaged consumers obtain credit to purchase a car - a necessity of modern life.
               Unlike traditional credit channels, we look at the person and what they can achieve, helping
@@ -52,7 +104,7 @@
         <div class="royal-hospital-card">
           <img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" id="royal-hosptial-photo-1">
           <a href="https://en.wikipedia.org/wiki/Renewable_energy" target="_blank">
-            <div class="royal-hospital-card-text">
+            <div class="royal-hospital-text">
               Royal Hospital Chelsea Infirmary Of all the projects I am proud of in my life, being part of the
               team that designed, built and furnished the Royal Hospital Chelsea Infirmary is dearest to my
               heart. Ex service men and now women can live out their lives in beautiful surroundings in safety
@@ -64,7 +116,7 @@
         <div class="housing-card">
           <img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" id="housing-photo-1">
           <a href="https://en.wikipedia.org/wiki/Renewable_energy" target="_blank">
-            <div class="housing-card-text">
+            <div class="housing-text">
               Bushy housing When a client asked me to demolish his factory and build him four three storey houses,
               we decided to embrace new o+-site construction processes. So and so terrace was completed  in 2018,
               following the demolition of a joinery factory in Bushey High road and the pre site construction of
@@ -75,7 +127,7 @@
         <div class="air-ambulance-card">
           <img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" id="air-ambulance-photo-1">
           <a href="https://en.wikipedia.org/wiki/Renewable_energy" target="_blank">
-            <div class="housing-card-text">
+            <div class="housing-text">
               Essex and Herts Air AmbulanceWorking with EAHAA was a privilege and an honour, being alongside some of
               the best people you will ever meet. Raising funds to help meet the annual £9 million pounds per year
               that it costs to keep pilots, doctors andparamedics in the air, saving hundreds of lives from Felixtowe
@@ -96,9 +148,3 @@
   </body>
 </html>
 https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427803/IMG_2367_bkby8s.jpg
-
-            <div class="top left"><img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427433/IMG_3322_z4cxzn.jpg" alt="Image" width="50" height="60" id="top-left-building-image"></div>
-            <div class="top right"><img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427449/IMG_3077_tbn0iz.jpg" alt="Image" width="50" height="60" id="top-right-building-image"></div>
-            <div class="bottom left"><img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427444/IMG_3081_f87djl.jpg" alt="Image" width="50" height="60" id="bottom-left-building-image"></div>
-            <div class="bottom right"><img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427440/IMG_3321_p50yvd.jpg" alt="Image" width="50" height="60" id="bottom-right-building-image"></div>
-            <div class="top middle"><img src="https://res.cloudinary.com/dxfjzvxxc/image/upload/v1684427438/IMG_3198_ifekxj.jpg" alt="Image" width="50" height="60" id="top-middle-building-image"></div>
