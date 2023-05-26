@@ -36,12 +36,13 @@
   color: black;
   padding: 20px;
   transition: 0.35s;
+  margin-top: 100px;
 }
 
 .renewable-energy-card {
   width: 100%;
   transition: 0.35s;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .renewable-energy-card-text {
