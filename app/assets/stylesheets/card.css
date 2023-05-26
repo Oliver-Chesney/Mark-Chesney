@@ -41,7 +41,7 @@
 .renewable-energy-card {
   width: 100%;
   transition: 0.35s;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .renewable-energy-card-text {
@@ -51,20 +51,20 @@
 .go-motor-finance-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .royal-hospital-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .air-ambulance-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .housing-card {

@@ -3,7 +3,7 @@
   grid-template-columns: 1fr 5fr;
   grid-gap: 10px;
   overflow: hidden;
-  height: 100vh;
+  height: 65vh;
 }
 img {
   display: block;
