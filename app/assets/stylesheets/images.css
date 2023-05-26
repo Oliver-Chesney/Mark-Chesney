@@ -16,6 +16,12 @@
   border-radius: 15px;
 }
 
+#royal-hosptial-photo-2 {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px;
+}
+
 #housing-photo-1 {
   width: 100%;
   height: 300px;
@@ -23,6 +29,12 @@
 }
 
 #air-ambulance-photo-1 {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px;
+}
+
+#air-ambulance-photo-2 {
   width: 100%;
   height: 300px;
   border-radius: 15px;

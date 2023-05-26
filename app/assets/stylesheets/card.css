@@ -40,7 +40,6 @@
 
 .renewable-energy-card {
   width: 40%;
-  margin-right: 40%;
   transition: 0.35s;
 }
 
@@ -51,25 +50,21 @@
 .go-motor-finance-card {
   transition: 0.35s;
   width: 40%;
-  margin-left: 40%;
 }
 
 .royal-hospital-card {
   transition: 0.35s;
   width: 40%;
-  margin-right: 40%;
 }
 
 .housing-card {
   transition: 0.35s;
   width: 40%;
-  margin-left: 40%;
 }
 
 .air-ambulance-card {
   transition: 0.35s;
   width: 40%;
-  margin-right: 40%;
 }
 
 .renewable-energy-text:hover{
