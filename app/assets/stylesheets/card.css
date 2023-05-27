@@ -28,7 +28,7 @@
 }
 
 .contact-informartion-card {
-  background-color: rgba(211,211,211,1);
+  background-color: rgba(211,211,211,0.5);
   width: 100%;
   display: flex;
   align-items: left;
