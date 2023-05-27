@@ -22,3 +22,31 @@ html,body {
 h1 {
   font-size: 75px;
 }
+
+
+#rectangle1 {
+  width: 200px;
+  height: 100px;
+  background:  #DAD1C6;
+}
+#rectangle2 {
+  width: 200px;
+  height: 100px;
+  background: #34A56F;
+}
+#rectangle3 {
+  width: 200px;
+  height: 100px;
+  background: #FFE87C;
+}
+#rectangle4 {
+  width: 200px;
+  height: 100px;
+  background:  #ADC945;
+}
+
+#rectangle5 {
+  width: 200px;
+  height: 100px;
+  background:  #60BC60;
+}
