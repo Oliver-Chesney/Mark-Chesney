@@ -36,7 +36,7 @@
   color: black;
   padding: 20px;
   transition: 0.35s;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .renewable-energy-card {
@@ -60,7 +60,7 @@
 .go-motor-finance-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .go-motor-finance-header {
@@ -78,7 +78,7 @@
 .royal-hospital-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .royal-hospital-header {
@@ -96,8 +96,8 @@
 .air-ambulance-card {
   transition: 0.35s;
   width: 100%;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 200px;
+  margin-bottom: 150px;
 }
 
 .air-ambulance-header {
