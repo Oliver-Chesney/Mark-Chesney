@@ -4,6 +4,7 @@ html,body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    background-color: rgba(218,209,198,0.3);
 }
 
 .title {

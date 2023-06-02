@@ -45,8 +45,16 @@
   margin-top: 50px;
 }
 
-.renewable-energy-card-text {
+.renewable-energy-header {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+.renewable-energy-text {
   transition: 0.35s;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
 }
 
 .go-motor-finance-card {
@@ -55,10 +63,34 @@
   margin-top: 100px;
 }
 
+.go-motor-finance-header {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+.go-motor-finance-text {
+  transition: 0.35s;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+
 .royal-hospital-card {
   transition: 0.35s;
   width: 100%;
   margin-top: 100px;
+}
+
+.royal-hospital-header {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+.royal-hospital-text {
+  transition: 0.35s;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
 }
 
 .air-ambulance-card {
@@ -68,9 +100,33 @@
   margin-bottom: 100px;
 }
 
+.air-ambulance-header {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+.air-ambulance-text {
+  transition: 0.35s;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+
 .housing-card {
   transition: 0.35s;
   width: 100%;
+}
+
+.housing-header {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+.housing-text {
+  transition: 0.35s;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
 }
 
 .renewable-energy-text:hover{
